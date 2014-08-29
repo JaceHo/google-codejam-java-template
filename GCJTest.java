@@ -1,5 +1,3 @@
-package gcj2014.roundBs;
-
 /**
  * Created by hippo on 8/29/14.
  */
